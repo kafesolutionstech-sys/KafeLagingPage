@@ -3,6 +3,13 @@
 > Documento de referência para desenvolver, manter e evoluir a landing page da Kafé.
 > Versão 1.0 · outubro de 2026
 
+> **Novembro de 2026 · novo visual.** Marca, cores, tipografia e regras de contraste (seções 2 a 4) continuam valendo.
+> A oferta, o tom e a estrutura do site mudaram e as seções 1.1, 5, 6 e 10 estão desatualizadas nesses pontos:
+> o PDV que funciona sem internet virou a oferta principal; entraram atendimento com IA no WhatsApp, tráfego pago,
+> gestão de Instagram, a seção da reforma tributária e o "cardápio de kafés" para outros negócios; o site fala como
+> empresa ("a gente") com o convite "Bora tomar um kafé?"; não há preço no site; saíram a apresentação em stories e a
+> calculadora de comissão. A fonte de verdade da estrutura e dos textos é o `index.html`, e as regras resumidas estão no `CLAUDE.md`.
+
 ---
 
 ## 1. Visão geral
